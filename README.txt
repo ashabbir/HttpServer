@@ -1,7 +1,6 @@
 Written by 
 Ahmed Shabbir
-as7231@nyu.edu
-poly id: 0504100
+Ahmed.Shabbir@nyu.edu
 CN 6843
 
 
