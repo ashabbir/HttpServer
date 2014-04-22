@@ -1,5 +1,4 @@
 Written by 
-Ahmed Shabbir
 Ahmed.Shabbir@nyu.edu
 CN 6843
 
